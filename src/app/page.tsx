@@ -1,6 +1,6 @@
 import { Box, Container, Typography } from "@mui/material";
-import MyCoolButton from "./components/MyCoolButton";
-import MyFirstComponent from "./components/MyFirstComponent";
+import MyCoolButton from "../components/MyCoolButton";
+import MyFirstComponent from "../components/MyFirstComponent";
 
 export default function Home() {
   return (
